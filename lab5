@@ -5,12 +5,12 @@
           "type": "Court Level Ticket",
           "price": "400",
           "num": "20"
-          }
+          },
           {
           "type": "Balcony Level Ticket",
           "price": "1000",
           "num": "10"
-          }
+          },
           {
           "type": "Lower Level Ticket",
           "price": "200",
