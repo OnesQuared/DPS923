@@ -3,18 +3,18 @@
    "data":[
       {
          "type":"Court Level Ticket",
-         "price":"400",
-         "num":"20"
+         "price": 400,
+         "num": 20
       },
       {
          "type":"Balcony Level Ticket",
-         "price":"1000",
-         "num":"10"
+         "price": 1000,
+         "num": 10
       },
       {
          "type":"Lower Level Ticket",
-         "price":"200",
-         "num":"50"
+         "price": 200,
+         "num": 50
       }
    ]
 }
